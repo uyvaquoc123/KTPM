@@ -12,6 +12,17 @@ namespace StudentApp
 
         public DbSet<Student> Students { get; set; }
 
+        public DbSet<Department> Departments { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Student>()
+                .HasOne(s => s.Department)
+                .WithMany(s => s.Students)
+                .HasForeignKey(s => s.DepartmentId);
+
+            base.OnModelCreating(modelBuilder);
+        }
 
 
     }

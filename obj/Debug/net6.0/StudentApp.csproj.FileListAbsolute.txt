@@ -33,3 +33,38 @@ D:\Desktop\KTPM\SP190101\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.Cachin
 D:\Desktop\KTPM\SP190101\StudentApp\bin\Debug\net6.0\MySqlConnector.dll
 D:\Desktop\KTPM\SP190101\StudentApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 D:\Desktop\KTPM\SP190101\StudentApp\obj\Debug\net6.0\StudentApp.csproj.CopyComplete
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\appsettings.json
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\StudentApp.staticwebassets.runtime.json
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\StudentApp.exe
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\StudentApp.deps.json
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\StudentApp.runtimeconfig.json
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\StudentApp.dll
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\StudentApp.pdb
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\StudentApp.csproj.AssemblyReference.cache
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\StudentApp.AssemblyInfoInputs.cache
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\StudentApp.AssemblyInfo.cs
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\StudentApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\StudentApp.RazorAssemblyInfo.cache
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\StudentApp.RazorAssemblyInfo.cs
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\scopedcss\bundle\StudentApp.styles.css
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\scopedcss\projectbundle\StudentApp.bundle.scp.css
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\StudentApp.csproj.CopyComplete
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\StudentApp.dll
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\refint\StudentApp.dll
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\StudentApp.pdb
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\StudentApp.genruntimeconfig.cache
+C:\Users\hieuz\OneDrive\Máy tính\KTPM\obj\Debug\net6.0\ref\StudentApp.dll

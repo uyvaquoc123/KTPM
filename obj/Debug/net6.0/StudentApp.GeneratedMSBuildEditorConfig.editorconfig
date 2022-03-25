@@ -8,41 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudentApp
 build_property.RootNamespace = StudentApp
-build_property.ProjectDir = d:\Desktop\KTPM\SP190101\StudentApp\
+build_property.ProjectDir = c:\Users\hieuz\OneDrive\Máy tính\KTPM\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\Desktop\KTPM\SP190101\StudentApp
+build_property.MSBuildProjectDirectory = c:\Users\hieuz\OneDrive\Máy tính\KTPM
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/Desktop/KTPM/SP190101/StudentApp/Views/Home/Index.cshtml]
+[c:/Users/hieuz/OneDrive/Máy tính/KTPM/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Desktop/KTPM/SP190101/StudentApp/Views/Home/Privacy.cshtml]
+[c:/Users/hieuz/OneDrive/Máy tính/KTPM/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Desktop/KTPM/SP190101/StudentApp/Views/Shared/Error.cshtml]
+[c:/Users/hieuz/OneDrive/Máy tính/KTPM/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Desktop/KTPM/SP190101/StudentApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/hieuz/OneDrive/Máy tính/KTPM/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Desktop/KTPM/SP190101/StudentApp/Views/Student/Index.cshtml]
+[c:/Users/hieuz/OneDrive/Máy tính/KTPM/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Desktop/KTPM/SP190101/StudentApp/Views/_ViewImports.cshtml]
+[c:/Users/hieuz/OneDrive/Máy tính/KTPM/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Desktop/KTPM/SP190101/StudentApp/Views/_ViewStart.cshtml]
+[c:/Users/hieuz/OneDrive/Máy tính/KTPM/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Desktop/KTPM/SP190101/StudentApp/Views/Shared/_Layout.cshtml]
+[c:/Users/hieuz/OneDrive/Máy tính/KTPM/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ak0w5rm0kc

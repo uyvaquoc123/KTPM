@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uE1JSsaFe0ybuJvE+lPxghCenuqOsGKK1liP5TMgvtihBjOzr7ZBtRps2qEZrU1rP6AaOBeJQ5qn3fuxFwVXfQ==",
+  "dgSpecHash": "Fqd9BnoG6PHEFWsHLVX2weIqiMJroiryIPvE9YGxOnY/J4Ei7UtDRDFAMyIZjWDbhdLvw9ESVOalmIzEKx4gIA==",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\KTPM\\SP190101\\StudentApp\\StudentApp.csproj",
+  "projectFilePath": "C:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\StudentApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hieuz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hieuz\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\KTPM\\SP190101\\StudentApp\\StudentApp.csproj": {}
+    "C:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\StudentApp.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\KTPM\\SP190101\\StudentApp\\StudentApp.csproj": {
+    "C:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\StudentApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\KTPM\\SP190101\\StudentApp\\StudentApp.csproj",
+        "projectUniqueName": "C:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\StudentApp.csproj",
         "projectName": "StudentApp",
-        "projectPath": "D:\\Desktop\\KTPM\\SP190101\\StudentApp\\StudentApp.csproj",
+        "projectPath": "C:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\StudentApp.csproj",
         "packagesPath": "C:\\Users\\hieuz\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\KTPM\\SP190101\\StudentApp\\obj\\",
+        "outputPath": "C:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hieuz\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

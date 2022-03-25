@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\Desktop\\KTPM\\SP190101\\StudentApp\\StudentApp.csproj",
+  "FilePath": "c:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\StudentApp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,43 +16298,43 @@
   "RootNamespace": "StudentApp",
   "Documents": [
     {
-      "FilePath": "d:\\Desktop\\KTPM\\SP190101\\StudentApp\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Desktop\\KTPM\\SP190101\\StudentApp\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Desktop\\KTPM\\SP190101\\StudentApp\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Desktop\\KTPM\\SP190101\\StudentApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Desktop\\KTPM\\SP190101\\StudentApp\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Desktop\\KTPM\\SP190101\\StudentApp\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Desktop\\KTPM\\SP190101\\StudentApp\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\Views\\Student\\Index.cshtml",
+      "TargetPath": "Views\\Student\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Desktop\\KTPM\\SP190101\\StudentApp\\Views\\Student\\Index.cshtml",
-      "TargetPath": "Views\\Student\\Index.cshtml",
+      "FilePath": "c:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
