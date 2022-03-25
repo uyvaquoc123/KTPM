@@ -1,0 +1,37 @@
+@model List<Student>;
+@using StudentApp.Models
+@{
+    ViewData["Title"] = "Student Page";
+    @* List<Student> students = ViewBag.StudentList; *@
+    @* var students = ViewData["StudentList"] as List<Student>; *@
+    var students = Model;
+}
+<div class="text-center">
+    <h1 class="display-4">Student Page</h1>
+    <table class="table table-hover table-striped">
+        <thead>
+            <th>StudentId</th>
+            <th>Code</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Age</th>
+            <th><a href="#" class="btn btn-success">Add</a></th>
+        </thead>
+        <tbody>
+            @foreach (Student student in students)
+            {
+                <tr>
+                    <td>@student.Id</td>
+                    <td>@student.Code</td>
+                    <td>@student.Name</td>
+                    <td>@student.Address</td>
+                    <td>@student.Age</td>
+                    <td>
+                        <a href="#" class="btn btn-primary">Update</a>
+                        <a href="#" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
