@@ -3,7 +3,7 @@ namespace StudentApp.Services
 {
     public interface IStudentServices
     {
-         List<Student> GetStudents();
+         List<Student> GetStudents(string keyword);
 
          Student? GetStudentById(int studentId);
 
@@ -12,5 +12,6 @@ namespace StudentApp.Services
          Student UpdateStudent( Student student);
 
          bool RemoveStudent (int studentId);
+
     }
 }

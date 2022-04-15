@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using StudentApp.Models;
 namespace StudentApp.Services
 {
@@ -14,13 +15,28 @@ namespace StudentApp.Services
             _context.SaveChanges();
             return student;
         }
+
         public Student? GetStudentById(int studentId)
         {
-            return _context.Students.FirstOrDefault(s => s.Id == studentId);
+            return _context.Students.Include(s => s.Department).Include(s => s.Rank).FirstOrDefault(s => s.Id == studentId);
         }
-        public List<Student> GetStudents()
+        public List<Student> GetStudents(string keyword)
         {
-            return _context.Students.ToList();
+            if (string.IsNullOrEmpty(keyword)){
+                return _context.Students
+                    .Include(s => s.Department)
+                    .Include(s => s.Rank)
+                    .ToList();
+            }
+            return _context.Students
+                .Include(s => s.Department)
+                .Include(s => s.Rank)
+                .Where(s =>
+                    s.Class.Contains(keyword) ||
+                    s.Name.Contains(keyword) ||
+                    s.Address.Contains(keyword)
+                )
+                .ToList();
         }
         public bool RemoveStudent(int studentId)
         {
@@ -34,10 +50,12 @@ namespace StudentApp.Services
         {
             var existedStudent = GetStudentById(student.Id);
             if (existedStudent == null) return null;
-            existedStudent.Code = student.Code;
+            existedStudent.Class = student.Class;
             existedStudent.Name = student.Name;
             existedStudent.Address = student.Address;
             existedStudent.Age = student.Age;
+            existedStudent.DepartmentId = student.DepartmentId;
+            existedStudent.RankId = student.RankId;
             _context.SaveChanges();
             return existedStudent;
         }

@@ -12,9 +12,8 @@ namespace StudentApp.Models
     {
         public Student()
         {
-            Code = string.Empty;
+            Class = string.Empty;
             Name = string.Empty;
-            Department = new Department();
         }
 
 
@@ -22,7 +21,7 @@ namespace StudentApp.Models
         public int Id { get; set; }
 
         [MaxLength(10)]
-        public string? Code { get; set; }
+        public string? Class { get; set; }
 
         [MaxLength(256)]
         public string? Name { get; set; }
@@ -31,8 +30,10 @@ namespace StudentApp.Models
         public int Age { get; set; }
 
         public int DepartmentId { get; set; }
+        public int RankId { get; set; }
 
         public virtual Department Department { get; set; }
+        public virtual Rank Rank { get; set; }
     }
     
 }

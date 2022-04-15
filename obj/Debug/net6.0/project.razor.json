@@ -16333,8 +16333,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\Views\\Student\\Add.cshtml",
+      "TargetPath": "Views\\Student\\Add.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hieuz\\OneDrive\\Máy tính\\KTPM\\Views\\Student\\Update.cshtml",
+      "TargetPath": "Views\\Student\\Update.cshtml",
       "FileKind": "mvc"
     }
   ],

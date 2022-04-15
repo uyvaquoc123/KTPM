@@ -16,6 +16,8 @@ services.AddDbContext<DataContext>(
 
 
 services.AddScoped<IStudentServices, StudentServices>();
+services.AddScoped<IDepartmentService, DepartmentService>();
+services.AddScoped<IRankService, RankService>();
 
 services.AddControllersWithViews();
 var app = builder.Build();
